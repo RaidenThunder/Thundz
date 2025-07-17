@@ -6,10 +6,10 @@ The core of this project is a Jupyter Notebook (cats_vs_dogs_classification.ipyn
 
 **The key steps covered are:**
 
-Data Loading & Pre-processing: The cats_vs_dogs dataset is loaded and split into training (80%), validation (10%), and testing (10%) sets. Images are resized to 150x150 pixels and pixel values are normalized to the range [-1, 1] for model compatibility.
-Model Building: Five distinct DNN models are constructed to compare their performance.
-Training & Evaluation: Each model is trained for 10 epochs, and their training/validation accuracy and loss are plotted to visualize performance.
-Testing: The best-performing model is evaluated on the unseen test dataset, with a detailed classification report and confusion matrix.  
+**Data Loading & Pre-processing:** The cats_vs_dogs dataset is loaded and split into training (80%), validation (10%), and testing (10%) sets. Images are resized to 150x150 pixels and pixel values are normalized to the range [-1, 1] for model compatibility.
+**Model Building:** Five distinct DNN models are constructed to compare their performance.
+**Training & Evaluation:** Each model is trained for 10 epochs, and their training/validation accuracy and loss are plotted to visualize performance.
+**Testing:** The best-performing model is evaluated on the unseen test dataset, with a detailed classification report and confusion matrix.  
 
 **Getting Started**
 To get a local copy up and running, follow these simple steps.
