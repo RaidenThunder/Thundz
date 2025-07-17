@@ -23,7 +23,7 @@ Ensure you have Python 3 installed, along with pip for package management. This 
 **Installation**
 Clone the repo
 
-git clone https://github.com/RaidenThunder/Thundz.git (git clone https://github.com/your-username/your-repository-name.git)
+git clone https://github.com/RaidenThunder/Thundz.git  (git clone https://github.com/your-username/your-repository-name.git)
 
 cd Thundz (cd your-repository-name)
 
