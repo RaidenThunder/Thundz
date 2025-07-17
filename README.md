@@ -16,25 +16,38 @@ The core of this project is a Jupyter Notebook (cats_vs_dogs_classification.ipyn
 
 **Getting Started**
 To get a local copy up and running, follow these simple steps.
-Prerequisites
+
+**Prerequisites**
 Ensure you have Python 3 installed, along with pip for package management. This project relies on several Python libraries.
-Installation
+
+**Installation**
 Clone the repo
+
 git clone https://github.com/your-username/your-repository-name.git
+
 cd your-repository-name
-Install required packages
+
+**Install required packages**
 pip install tensorflow tensorflow-datasets matplotlib numpy scikit-learn
-USAGE
+
+**USAGE**
 Open the Jupyter Notebook:
+
 jupyter notebook cats_vs_dogs_classification.ipynb
+
 Run the cells sequentially from top to bottom to see the entire process, from data loading to model evaluation.
 
 **Models Explored**
 The notebook implements and compares five different fully connected neural network architectures:
+
 Basic DNN: A simple baseline model with a single hidden dense layer.
+
 Deeper DNN: A model with three hidden dense layers to explore the effect of network depth.
+
 DNN with Dropout: Introduces dropout layers to the deeper model to combat overfitting.
+
 DNN with Batch Normalization: Incorporates batch normalization layers to improve training stability and performance.
+
 DNN with L2 Regularization: Adds L2 regularization to penalize large weights and reduce overfitting.
 
 **Results**
@@ -43,4 +56,5 @@ The final evaluation on the test set yielded a detailed classification report an
 
 **Conclusion**
 This project successfully demonstrates the process of building and comparing multiple DNN architectures for a common image classification problem. It highlights that techniques like Batch Normalization can significantly improve model stability and performance.
+
 Future work could involve exploring more advanced architectures (like actual Convolutional Neural Networks with Conv2D layers), fine-tuning hyperparameters, or employing data augmentation techniques to further enhance accuracy.
