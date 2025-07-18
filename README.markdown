@@ -19,7 +19,7 @@ Implements a Deep Neural Network to classify cat and dog images from the cats_vs
 
 **Key Skills:** TensorFlow, deep learning, model optimization, performance evaluation, data preprocessing.
 
-**CNN: Coming Soon:**Planned project leveraging Convolutional Neural Networks for advanced image-based analytics, such as sentiment analysis from employee-generated visual data (e.g., workplace event images).
+**CNN: Coming Soon:** Planned project leveraging Convolutional Neural Networks for advanced image-based analytics, such as sentiment analysis from employee-generated visual data (e.g., workplace event images).
 
 **Why It Matters:** Extends classification capabilities to multimedia workforce data, enhancing predictive analytics.
 
