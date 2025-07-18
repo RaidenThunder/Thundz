@@ -27,6 +27,7 @@ Implements a Deep Neural Network to classify cat and dog images from the cats_vs
 **Setup**
 
 Clone the repository:git clone https://github.com/RaidenThunder/Thundz.git
+
 cd Thundz
 
 
