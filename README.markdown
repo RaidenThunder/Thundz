@@ -58,5 +58,7 @@ Full list in requirements.txt
 **Contact**
 
 GitHub: RaidenThunder
+
 Email: rbg40004@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/rahul-chatterjee-4705aa213/
