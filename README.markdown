@@ -26,12 +26,16 @@ Implements a Deep Neural Network to classify cat and dog images from the cats_vs
 
 **Setup**
 
-Clone the repository:git clone https://github.com/RaidenThunder/Thundz.git
+Clone the repository:
+
+git clone https://github.com/RaidenThunder/Thundz.git
 
 cd Thundz
 
 
-Install dependencies:pip install -r requirements.txt
+Install dependencies:
+
+pip install -r requirements.txt
 
 
 Run projects in Google Colab (recommended for GPU support) or Jupyter Notebook. See project-specific READMEs (NLP/README.md, DNN/README.md) for detailed instructions.
@@ -39,7 +43,9 @@ Run projects in Google Colab (recommended for GPU support) or Jupyter Notebook. 
 **Dependencies**
 
 Python 3.8+
+
 Key packages: pandas, numpy, scikit-learn, nltk, tensorflow, tensorflow-datasets, matplotlib, seaborn, wordcloud, plotly, adjustText
+
 Full list in requirements.txt
 
 **Why This Portfolio?**
