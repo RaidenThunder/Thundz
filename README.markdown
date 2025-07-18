@@ -1,5 +1,6 @@
 **Thundz - Machine Learning Portfolio**
 Welcome to **Thundz**, a professional showcase of advanced machine learning projects demonstrating expertise in Natural Language Processing (NLP), Deep Neural Networks (DNN), and Convolutional Neural Networks (CNN). Designed for the Senior Workforce Management Analyst role, this portfolio highlights data analysis, modeling, and visualization skills to derive actionable insights for workforce optimization, employee engagement, and performance analytics.
+
 **Projects**
 
 **NLP: IMDB Review Analysis:**
