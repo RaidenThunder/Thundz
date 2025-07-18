@@ -1,12 +1,27 @@
-**Thundz** - Machine Learning Portfolio
-Welcome to Thundz, a collection of machine learning projects showcasing skills in Natural Language Processing (NLP), Deep Neural Networks (DNN), and Convolutional Neural Networks (CNN). This repository demonstrates expertise in data analysis, modeling, and visualization, tailored for roles like Senior Workforce Management Analyst.
-Projects
+**Thundz - Machine Learning Portfolio**
+Welcome to **Thundz**, a professional showcase of advanced machine learning projects demonstrating expertise in Natural Language Processing (NLP), Deep Neural Networks (DNN), and Convolutional Neural Networks (CNN). Designed for the Senior Workforce Management Analyst role, this portfolio highlights data analysis, modeling, and visualization skills to derive actionable insights for workforce optimization, employee engagement, and performance analytics.
+**Projects**
 
-**NLP:** IMDB Review Analysis: Analyzes 620 IMDB movie reviews using TF-IDF, bigram modeling, and visualizations (word cloud, bar plots, interactive PCA). Highlights text analytics skills for workforce applications like employee feedback analysis.
+**NLP: IMDB Review Analysis:**
 
-**DNN:** Cats vs. Dogs Image Classification: Implements a DNN to classify cat and dog images, comparing architectures, regularization, and optimizers. Demonstrates classification skills applicable to workforce performance metrics.
+Analyzes 620 IMDB movie reviews using NLP techniques like TF-IDF vectorization and bigram modeling. Features interactive visualizations (word clouds, bar plots, PCA scatter plots) to uncover sentiment patterns and key terms.
 
-**CNN:** Coming Soon: Placeholder for a convolutional neural network project (e.g., image-based employee sentiment analysis).
+**Why It Matters:** Showcases text analytics skills to process employee feedback, survey responses, or performance reviews, enabling data-driven workforce strategies.
+
+**Key Skills:** Python, pandas, scikit-learn, NLTK, Plotly, sentiment analysis, data visualization.
+
+**DNN: Cats vs. Dogs Image Classification:**
+
+Implements a Deep Neural Network to classify cat and dog images from the cats_vs_dogs dataset, comparing multiple architectures, regularization techniques (Dropout, L2), and optimizers (SGD, RMSprop, Adam). Includes visualizations like accuracy/loss curves and confusion matrices.
+
+**Why It Matters:** Demonstrates classification expertise applicable to categorizing employee performance metrics, engagement scores, or visual feedback for workforce analytics.
+
+**Key Skills:** TensorFlow, deep learning, model optimization, performance evaluation, data preprocessing.
+
+**CNN: Coming Soon:**Planned project leveraging Convolutional Neural Networks for advanced image-based analytics, such as sentiment analysis from employee-generated visual data (e.g., workplace event images).
+
+**Why It Matters:** Extends classification capabilities to multimedia workforce data, enhancing predictive analytics.
+
 
 **Setup**
 
@@ -17,18 +32,20 @@ cd Thundz
 Install dependencies:pip install -r requirements.txt
 
 
-Run projects in Google Colab or Jupyter Notebook. See project-specific READMEs for details.
+Run projects in Google Colab (recommended for GPU support) or Jupyter Notebook. See project-specific READMEs (NLP/README.md, DNN/README.md) for detailed instructions.
 
-Dependencies
+**Dependencies**
 
-Python 3.7+
-See requirements.txt for full list.
+Python 3.8+
+Key packages: pandas, numpy, scikit-learn, nltk, tensorflow, tensorflow-datasets, matplotlib, seaborn, wordcloud, plotly, adjustText
+Full list in requirements.txt
 
 **Why This Portfolio?**
 
-Relevance: Projects demonstrate skills in data analysis, text processing, and image classification, applicable to workforce analytics (e.g., employee engagement, performance insights).
-Professional Presentation: Clear documentation and visualizations make complex analyses accessible to technical and non-technical stakeholders.
-Scalability: Structured to expand with new projects in CNN, showcasing a growing skill set.
+**Workforce Relevance:** Projects mirror real-world workforce analytics tasks, such as analyzing employee feedback (NLP) and classifying performance metrics (DNN), delivering actionable insights for strategic decision-making.
+
+**Professional Polish:** Clear documentation, interactive visualizations, and modular code ensure accessibility for technical and non-technical stakeholders.
+**Scalability:** Structured to grow with advanced CNN projects, showcasing a commitment to continuous learning and innovation.
 
 **Contact**
 
