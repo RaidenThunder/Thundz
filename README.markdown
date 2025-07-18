@@ -3,7 +3,9 @@ Welcome to Thundz, a collection of machine learning projects showcasing skills i
 Projects
 
 **NLP:** IMDB Review Analysis: Analyzes 620 IMDB movie reviews using TF-IDF, bigram modeling, and visualizations (word cloud, bar plots, interactive PCA). Highlights text analytics skills for workforce applications like employee feedback analysis.
+
 **DNN:** Cats vs. Dogs Image Classification: Implements a DNN to classify cat and dog images, comparing architectures, regularization, and optimizers. Demonstrates classification skills applicable to workforce performance metrics.
+
 **CNN:** Coming Soon: Placeholder for a convolutional neural network project (e.g., image-based employee sentiment analysis).
 
 **Setup**
